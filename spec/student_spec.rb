@@ -89,3 +89,4 @@ describe Student do
         expect(new_student.values_for_insert).to eq("'Sam', '11'")
       end
     end
+end 
